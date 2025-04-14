@@ -28,6 +28,10 @@ The analysis is grouped by **Country Income Groups** and **Geographic Regions**,
  Birth Rate vs Internet Usage <br/>
 <img src="https://i.imgur.com/JdUGyQ8.png[/img]" height="80%" width="80%"/>
 <br />
+
+LifeExpectancy(1960 VS 2013) <br/>
+<img src="https://i.imgur.com/6aCvlnr.png[/img]" height="80%" width="80%"/>
+<br />
 ---
 
 ## 🛠️ Tools & Technologies
